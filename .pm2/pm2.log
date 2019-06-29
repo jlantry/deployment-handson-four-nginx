@@ -1,0 +1,17 @@
+2019-06-26T03:05:30: PM2 log: ===============================================================================
+2019-06-26T03:05:30: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-06-26T03:05:30: PM2 log: Time                 : Wed Jun 26 2019 03:05:30 GMT+0000 (UTC)
+2019-06-26T03:05:30: PM2 log: PM2 version          : 3.5.1
+2019-06-26T03:05:30: PM2 log: Node.js version      : 8.16.0
+2019-06-26T03:05:30: PM2 log: Current arch         : x64
+2019-06-26T03:05:30: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2019-06-26T03:05:30: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2019-06-26T03:05:30: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2019-06-26T03:05:30: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2019-06-26T03:05:30: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2019-06-26T03:05:30: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2019-06-26T03:05:30: PM2 log: Concurrent actions   : 2
+2019-06-26T03:05:30: PM2 log: SIGTERM timeout      : 1600
+2019-06-26T03:05:30: PM2 log: ===============================================================================
+2019-06-26T03:14:28: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2019-06-26T03:14:28: PM2 log: Exited peacefully
